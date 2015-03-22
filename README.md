@@ -5,15 +5,14 @@ QuickQ is an Android app based on the Google Places API. It finds restaurants ne
 
 ===================================
 
-QuickQ is based on Android PlacePicker Sample
+Pre-requisites
+--------------
 
+QuickQ is based on Android PlacePicker Sample
 
 This app uses the PlacePicker.Builder from Android PlacePicker Sample to construct an Intent to launch the place
 picker dialog. Users can select a place or add a new place,
 which is then returned to the application.
-
-Pre-requisites
---------------
 
 - Android SDK v21
 - Android Build Tools v21.1.1
