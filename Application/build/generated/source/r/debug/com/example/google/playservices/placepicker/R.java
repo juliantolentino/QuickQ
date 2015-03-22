@@ -702,9 +702,10 @@ containing a value of this type.
         public static final int pick_action=0x7f0a0028;
         public static final int pick_text=0x7f0a0029;
         public static final int pick_title=0x7f0a002a;
-        public static final int store_picture_message=0x7f0a002b;
-        public static final int store_picture_title=0x7f0a002c;
-        public static final int wallet_buy_button_place_holder=0x7f0a002d;
+        public static final int report_action=0x7f0a002b;
+        public static final int store_picture_message=0x7f0a002c;
+        public static final int store_picture_title=0x7f0a002d;
+        public static final int wallet_buy_button_place_holder=0x7f0a002e;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
