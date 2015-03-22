@@ -617,6 +617,8 @@ containing a value of this type.
         public static final int card_stream=0x7f080025;
         public static final int card_title=0x7f080005;
         public static final int classic=0x7f08001d;
+        public static final int dialogButtonCancel=0x7f080028;
+        public static final int dialogButtonReport=0x7f080029;
         public static final int donate_with_google=0x7f08001c;
         public static final int fast=0x7f080006;
         public static final int fragment_cardstream=0x7f080020;
@@ -628,12 +630,14 @@ containing a value of this type.
         public static final int monochrome=0x7f08001f;
         public static final int none=0x7f080009;
         public static final int normal=0x7f080007;
+        public static final int numpicker=0x7f080027;
         public static final int production=0x7f080012;
         public static final int sandbox=0x7f080013;
         public static final int satellite=0x7f08000e;
         public static final int selectionDetails=0x7f080016;
         public static final int slide=0x7f08000a;
         public static final int slow=0x7f080008;
+        public static final int status=0x7f080026;
         public static final int strict_sandbox=0x7f080014;
         public static final int terrain=0x7f08000f;
         public static final int wrap_content=0x7f080018;
@@ -651,6 +655,7 @@ containing a value of this type.
         public static final int card_google=0x7f040006;
         public static final int card_progress=0x7f040007;
         public static final int cardstream=0x7f040008;
+        public static final int report=0x7f040009;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
