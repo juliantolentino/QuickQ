@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="5dp"
+        android:text="How long did you have to wait (minutes)?"
+        android:textColor="#000" />
+
+    <NumberPicker
+        android:id="@+id/numpicker"
+        android:layout_below="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/numpicker">
+
+        <Button
+            android:id="@+id/dialogButtonCancel"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="Cancel" />
+
+        <Button
+            android:id="@+id/dialogButtonReport"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="Submit" />
+
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/layout/report.xml -->

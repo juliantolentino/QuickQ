@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="card_action">#FF47B4EA</color>
+    <color name="card_action_bg">#DDD</color>
+    <color name="card_action_focused">#FFE3F4FC</color>
+    <color name="card_action_inverted">@android:color/white</color>
+    <color name="card_action_item_bg">#F4F4F4</color>
+    <color name="card_action_negative">#FFF64940</color>
+    <color name="card_action_negative_focused">#FFFBCBCA</color>
+    <color name="card_action_negative_ripple">#CCF64940</color>
+    <color name="card_action_positive">#FFA0CC00</color>
+    <color name="card_action_positive_focused">#FFE4F0AF</color>
+    <color name="card_action_positive_ripple">#CCA0CC00</color>
+    <color name="card_action_ripple">#CC47B4EA</color>
+    <color name="card_content_textcolor">#444</color>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml -->
+    <eat-comment/>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="CardStream"><attr format="enum" name="animationDuration"><enum name="slow" value="1001"/><enum name="normal" value="1002"/><enum name="fast" value="1003"/></attr><attr format="string" name="animators"/></declare-styleable>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
+    <declare-styleable name="CustomWalletTheme"><attr format="enum" name="windowTransitionStyle"><enum name="slide" value="1"/><enum name="none" value="2"/></attr></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="card_action_margin">3dp</dimen>
+    <dimen name="card_action_padding">8dp</dimen>
+    <dimen name="card_content_text">14sp</dimen>
+    <dimen name="card_content_title">24sp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="card_padding">15dp</dimen>
+    <dimen name="card_stream_bottom_padding">90dp</dimen>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="card_actionarea" type="id"/>
+    <item name="card_content" type="id"/>
+    <item name="card_contentarea" type="id"/>
+    <item name="card_layout" type="id"/>
+    <item name="card_overlay" type="id"/>
+    <item name="card_title" type="id"/>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">7095000</integer>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">QuickQ</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="commono_google_play_services_api_unavailable_text">This app requires one or more Google Play services that are not currently
+available. Please contact the developer for assistance.</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/placepicker_strings.xml -->
+    <eat-comment/>
+    <string name="detail_text">Address: %1$s\nPhone: %2$s\nWait time: %3$s minutes\nDate: %4$s</string>
+    <string name="empty"/>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            Choose a local restaurant to find wait times.
+            
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/placepicker_strings.xml -->
+    <eat-comment/>
+    <string name="intro_title">QuickQ</string>
+    <string name="pick_action">Pick a place</string>
+    <string name="pick_text">Choose below to pick a place.
+</string>
+    <string name="pick_title">Pick a place</string>
+    <string name="report_action">Report wait times</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Card">
+        <item name="android:background">@drawable/card_bg</item>
+        <item name="android:layout_margin">@dimen/card_margin</item>
+    </style>
+    <style name="CardAction">
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_marginTop">@dimen/card_action_margin</item>
+        <item name="android:layout_marginLeft">@dimen/card_action_margin</item>
+        <item name="android:layout_marginRight">@dimen/card_action_margin</item>
+        <item name="android:paddingLeft">@dimen/card_action_padding</item>
+        <item name="android:drawablePadding">@dimen/card_action_padding</item>
+    </style>
+    <style name="CardActionArea">
+        <item name="android:background">@color/card_action_bg</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">@dimen/card_action_margin</item>
+    </style>
+    <style name="CardActionNegative" parent="@style/CardAction">
+        <item name="android:background">@drawable/card_action_bg_negative</item>
+        <item name="android:drawableStart">@drawable/card_action_icon_negative</item>
+        <item name="android:textColor">@drawable/card_action_text_negative</item>
+    </style>
+    <style name="CardActionNeutral" parent="@style/CardAction">
+        <item name="android:background">@drawable/card_action_bg</item>
+        <item name="android:drawableStart">@drawable/card_action_icon_neutral</item>
+        <item name="android:textColor">@drawable/card_action_text</item>
+    </style>
+    <style name="CardActionPositive" parent="@style/CardAction">
+        <item name="android:background">@drawable/card_action_bg_positive</item>
+        <item name="android:drawableStart">@drawable/card_action_icon_positive</item>
+        <item name="android:textColor">@drawable/card_action_text_positive</item>
+    </style>
+    <style name="CardContent" parent="@style/CardContentBase">
+    </style>
+    <style name="CardContentArea">
+        <item name="android:paddingBottom">@dimen/card_padding</item>
+    </style>
+    <style name="CardContentBase" parent="@style/CardElement">
+        <item name="android:paddingTop">@dimen/card_padding</item>
+        <item name="android:textSize">@dimen/card_content_text</item>
+        <item name="android:textColor">@color/card_content_textcolor</item>
+    </style>
+    <style name="CardElement">
+        <item name="android:paddingLeft">@dimen/card_padding</item>
+        <item name="android:paddingRight">@dimen/card_padding</item>
+    </style>
+    <style name="CardProgressLayout" parent="@style/CardAction">
+        <item name="android:layout_marginLeft">@dimen/card_action_margin</item>
+        <item name="android:layout_marginRight">@dimen/card_action_margin</item>
+        <item name="android:paddingLeft">@dimen/card_action_padding</item>
+        <item name="android:paddingRight">@dimen/card_action_padding</item>
+        <item name="android:background">#EEE</item>
+    </style>
+    <style name="CardProgressText" parent="@style/CardAction">
+        <item name="android:textColor">#77000000</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingLeft">0dp</item>
+    </style>
+    <style name="CardStream">
+        <item name="android:paddingBottom">@dimen/card_stream_bottom_padding</item>
+        <item name="android:divider">@null</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="CardTitle" parent="@style/CardTitleBase">
+    </style>
+    <style name="CardTitleBase" parent="@style/CardElement">
+        <item name="android:paddingTop">@dimen/card_padding</item>
+        <item name="android:textSize">@dimen/card_content_title</item>
+    </style>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml -->
+    <eat-comment/>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

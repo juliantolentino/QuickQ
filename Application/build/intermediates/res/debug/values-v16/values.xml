@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/juliantolentino/Downloads/android-play-places-master%202/PlacePicker/Application/src/main/res/values-v16/styles.xml -->
+    <eat-comment/>
+    <style name="CardContent" parent="@style/CardContentBase">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="CardTitle" parent="@style/CardTitleBase">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+</resources>

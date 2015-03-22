@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_title">QuickQ</string>
+
+    <string name="pick_title">Pick a place</string>
+    <string name="pick_text">Choose below to pick a place.
+</string>
+    <string name="pick_action">Pick a place</string>
+    <string name="report_action">Report wait times</string>
+
+    <string name="detail_text">Address: %1$s\nPhone: %2$s\nWait time: %3$s minutes\nDate: %4$s</string>
+
+    <string name="empty"></string>
+</resources>

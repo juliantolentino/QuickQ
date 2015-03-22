@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-53da8abd5b953b3da84256813568f6af8d2cbc25.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-0025109fe13f331a80007f4af382d9d62fb17993.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e9d5811a1004971c4acee378fad44ab1ab5471f2.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-8eece7e0784a0b87760f335ab044d95c07a36e60.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-bda22ace74a88d259d35196dc65fa5bd8c05a826.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-8abad53a3f934bec8de03449cd6e3caba103f10c.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ad0056862a7cdded62326a9579d20dac3f9b28c4.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c851a4401e696523a0c8067ee67da929949a8c9e.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-4ca141216657b3a50a888d1dd78fbad638143634.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e8f787d121a5a3a6f4542b0595aa08eeaab89e86.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-34ff38cbdec8fadaa9a9e73db9ea9a28d7098db4.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-402329e5261084c2bb3b137aaae25c32f4b3f590.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-901d3dafe0ec0890c340df60ff068ef8e9344af7.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-d9e8edbd409c196355f8a2a5fac3740b73ce6718.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-998dbd9308a24fba78f5fe3beed59888d95cc0d6.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-4469ec9bbdc6ce37687bfd3d148fb9a5b6381fed.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-3d8a0525b91900503c79f849282e657dbb2d3435.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-cf85f06229790138ba06f969402e6c25d8858b95.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-24dda745679d66db837c8c03d53734726cbcdb23.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e7144c7c9b7fd8b22b0b3eec40839ca9833b1cfd.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-d9b1fe53154cb5fc6c87ded9e6db091004f3bccc.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-b2936d7ff2d81d5500ca2ae4f24f73d5be62b06d.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-b58fd573486b285020ddc6b937f005eb01304ff4.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-2cad79f81ae85174d7782a50609eb3412e3d3f8b.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ce279ef63bea31d3e1fa5e874b44d5843353877d.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-680502714f9624c18c6f968b23477ec47dd52e07.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-b61f4310ceed0b318a38c15e9450479b65924406.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-faf4ab57d6671ddbc5842286c5dc5e5a0916d8fb.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ea059f2b6c4bb38f2945996263bbe6300e025426.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-b5ed64c87c3de48445f85bcf42f44c21ca8f983d.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e9556839ace40e94f412b919082b48eae6e891cf.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-2793184f1b6c64392a15f5e6d8fbbb9804084bee.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-92273f840448de9f6970890685ee3129797300b4.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e9cda9f8ca6b30f933605a2d79d50cd008ff5881.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-f01907d5a9a51ba260d6d9bdf0e815a0fa2167a0.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e76233ec713eb6db33631eb333e7bc3b54a6e8e3.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-06f5676b1a13ea3d2d134e697b053988b92d216f.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-765a331adacd1014eb464d37b0a67724e25c965d.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-f8b54e98479a33f9837e03ef8a1a595cfdce34fa.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e5e0964b301dcfce90906431a29dde1602d83992.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-871908c73591083176b5d640ba55a6226d05cc2f.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-946476a18bb2edea459440a9dd18b84f0ba6b8e8.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-d0cd986cc18857624d0668a6b88adba39527871b.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ac70c2fe75694851facab0679ad54f4655c6010b.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-728c5b6841d6afad1715a0d021b9760b80c30f4b.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-52c210563c09be31e4a201ce168f4a469d230922.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-17946ca1b484129b0207cc8b0ed7a0dff146f416.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master 2/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ef9e425fa714a184b1eb70a661feff67b7f9521b.jar" />
+    </item>
+    <item
+        jar="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/juliantolentino/Downloads/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-fceab776725b8fd65c3dabbc7d1cfac371b745fb.jar" />
+    </item>
+
+</items>
