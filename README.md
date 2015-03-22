@@ -1,4 +1,7 @@
-QuickQ is an Android app based on the Google Places API. It finds restaurants near your location and allows users to post the waiting times of the restaurants near you.
+
+QuickQ
+--------------
+QuickQ is an Android app based on the Google Places API. It finds restaurants near your location and allows users to post the waiting times of the restaurants near you. The app was created during HackFSU.
 
 ===================================
 
